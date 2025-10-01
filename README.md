@@ -6,7 +6,7 @@
 AMCT is a colorful Python tool that helps students and teachers quickly calculate average scores and perform basic math operations.  
 
 ## 🔧 Features
-- Calculate average score for 7 subjects (Iraqi style)
+- Calculate average score for 7 subjects (World Style)
 - Calculate average score for 13 subjects
 - Simple built-in calculator (supports + - * / % ** and parentheses)
 - ASCII art logo & colorful output
