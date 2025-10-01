@@ -1,7 +1,7 @@
 # AMCT
 # AMCT (Average Marks Counting Tool)
 
-![AMCT Screenshot](screenshot.png)
+![AMCT Screenshot](5974362344563788337.jpg)
 
 AMCT is a colorful Python tool that helps students and teachers quickly calculate average scores and perform basic math operations.  
 
